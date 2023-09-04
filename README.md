@@ -5,5 +5,5 @@ is good website  for personal usecases and for portfolio. you can free feel  rea
 
 <p><b></b> you can access this website by this link :- https://shorturl.ac/data-scientist<p>
 <br>
-<h1>alternative url :- </h1>http://ranjitsingh.pythonanywhere.com/
+<h1>alternative url :- </h1>http://tukaramjagdale.pythonanywhere.com/
 😎😋😎
