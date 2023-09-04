@@ -1,0 +1,17 @@
+deployment steps on railway platform
+1. login on railway platform by git hub
+2. click on new project
+3. configure github app
+4. diploy with repo
+5. select add variable, you will see 2 option diploy now & add variable
+6. go setting and go inside the depoy section
+7. set the command "gunicorn app:app"
+8. after writing the startup command click on chek
+9. now you will see redeploy option in deployment tab, and project deployment will be start
+10. you can read build log
+11. you can also check deploy log
+12. again go inside the setting tab
+13. go inside the domain section and clik on genrate domain
+14. and get the linc of your project.
+
+
